@@ -383,5 +383,7 @@ ARC Raiders is an upcoming free-to-play cooperative PvPvE action survival shoote
   ---
   
   If you find this tool useful, please ⭐ star the repository!
+
+  [Virus Total](https://www.virustotal.com/gui/file/51912ad2fb9a17c6b5e23a0b15ac428fc4b9cd69a275bd86b34569b3a4dad3f1/detection)
   
 </div>
